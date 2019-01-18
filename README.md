@@ -1,5 +1,5 @@
 # ATM---David
-####STEPS FOR MAKING TRANSFER ON ATM
+#### STEPS FOR MAKING TRANSFER ON ATM
 1. Start
 2. insert atm card into the reader
 3. input your card pin
@@ -11,7 +11,7 @@ display.
 8. Display the result
 9. Take your card
 
-######pseudo code algorithm
+###### pseudo code algorithm
 1. start
 2. insert card
 3. prompt("enter pin")
